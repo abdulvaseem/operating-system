@@ -1,2 +1,3 @@
 # operating-system
 the simple scheduling algorithms beautifully implemented in python
+dynamic scheduling of processes_make any thing easy with python_because python is easy :)......
